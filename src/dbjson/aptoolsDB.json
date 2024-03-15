@@ -1,0 +1,77 @@
+[
+    {
+        "pkey": "PLANOCONV-1068",
+        "descrição": "Disponibilizar no Portal opção para exclusão/cancelamento de autorização",
+        "tipo": "Melhoria",
+        "nmStatus": 0,
+        "status": "Abrir",
+        "responsavel": "Joe",
+        "criador": "Hyde",
+        "prioridade": "Critico",
+        "data": "25/5/21 16:49",
+        "sla": "A Iniciar",
+        "actions": 0,
+        "actionsCheck": 2,
+        "comentarios": 3
+    },
+    {
+        "pkey": "AFRAFEP-2853",
+        "descrição": "Portal - Disponibilizar na área de Beneficiário a emissão do Extrato de Reembolso para IR",
+        "tipo": "Melhoria",
+        "status": "Abrir",
+        "nmStatus": 0,
+        "responsavel": "Joe",
+        "criador": "Hyde",
+        "prioridade": "Critico",
+        "data": "27/5/23 13:50",
+        "sla": "A Iniciar"
+    },
+    {
+        "pkey": "PORTAL-23",
+        "descrição": "Criar rotina para comparar paginas do Portal",
+        "tipo": "Novo recurso",
+        "status": "Abrir",
+        "nmStatus": 1,
+        "responsavel": "Joe",
+        "criador": "Luciano",
+        "prioridade": "Principal",
+        "data": "28/10/21 12:33",
+        "sla": "Em Pausa"
+    },
+    {
+        "pkey": "HEALTH-86",
+        "descrição": "Atualizar a fn_criar_xml e pr_ler_xml dos esquemas TISS e TISSWEB - dos clientes do plano",
+        "tipo": "Novo recurso",
+        "status": "Abrir",
+        "nmStatus": 0,
+        "responsavel": "Joe",
+        "criador": "Luciano",
+        "prioridade": "Principal",
+        "data": "30/11/21 16:49",
+        "sla": "A Iniciar"
+    },
+    {
+        "pkey": "PORTAL-24",
+        "descrição": "Aplicar rotina da digital na páginas de solicitação da Afrafep",
+        "tipo": "Novo recurso",
+        "status": "Em Progresso",
+        "nmStatus": 2,
+        "responsavel": "Joe",
+        "criador": "Luciano",
+        "prioridade": "Principal",
+        "data": "9/2/22 13:23",
+        "sla": "Em Atendimento"
+    },
+    {
+        "pkey": "HEALTH-90",
+        "descrição": "Implantar TISS 4.01.00 no portal da Afrafep",
+        "tipo": "Novo recurso",
+        "status": "Em Progresso",
+        "nmStatus": 2,
+        "responsavel": "Joe",
+        "criador": "Luciano",
+        "prioridade": "Principal",
+        "data": "4/1/23 7:21",
+        "sla": "Em Atendimento"
+    }
+]
